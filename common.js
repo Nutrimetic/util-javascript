@@ -36,7 +36,7 @@ function getCookie(name) {
 /*
  * Exemple d'utilisation
  * 
- */
+ *
 var Conversation = {
 		
 		acquereur : "",
